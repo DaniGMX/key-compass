@@ -5,3 +5,5 @@ This is a college project for the subject of Advanded Programming for the Intern
 ## Notion Board
 [Here](https://www.notion.so/IA-II-d224a86a1a534a859a4c01f349405ba4) I link the Notion Board I am following with the tasks for the project
 
+## Currently Finished Tasks
+ - None
