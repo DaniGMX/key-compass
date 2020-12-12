@@ -1,5 +1,5 @@
 <?php
 
-echo "Key Compass Work in progress!"
+echo "Key Compass Work in progress!";
 
 ?>
